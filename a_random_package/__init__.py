@@ -1,1 +1,1 @@
-import a_random_package
+import main
